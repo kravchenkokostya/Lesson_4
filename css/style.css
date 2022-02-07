@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
 
-
 @font-face {
 	font-family: "Cardo";
 	src: url("../fonts/Cardo-Regular.woff2") format("woff2"), url("../fonts/Cardo-Regular.woff") format("woff");
@@ -9,6 +8,7 @@
 	font-style: normal;
 	font-display: swap;
 }
+
 @font-face {
 	font-family: "Cardo";
 	src: url("../fonts/Cardo-Italic.woff2") format("woff2"), url("../fonts/Cardo-Italic.woff") format("woff");
@@ -16,6 +16,7 @@
 	font-style: italic;
 	font-display: swap;
 }
+
 @font-face {
 	font-family: "Cardo";
 	src: url("../fonts/Cardo-Bold.woff2") format("woff2"), url("../fonts/Cardo-Bold.woff") format("woff");
@@ -34,6 +35,7 @@ body {
 	font-family: "Montserrat", sans-serif;
 	text-align: center;
 }
+
 .title {
 	font-size: 65px;
 	font-weight: 700;
@@ -43,6 +45,7 @@ body {
 	word-spacing: 50px;
 
 }
+
 .description {
 	font-family: "Montserrat", sans-serif;
 	font-size: 14px;
@@ -59,6 +62,7 @@ body {
 	text-decoration:underline;
 	color: indianred;
 }
+
 .span {
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -67,8 +71,7 @@ body {
 	line-height: 1.25;
 	white-space: pre-wrap;
 }
-.life {
-}
+
 .subtitle {
 	font-family: "Dancing Script", cursive;
 	font-weight: 700;
